@@ -1,8 +1,8 @@
 class Sushiro < Formula
   homepage "https://github.com/redpeacock78"
   url "https://raw.githubusercontent.com/redpeacock78/sushiro/master/sushiro"
-  sha256 'f9099cdbd2692cd8cb5406c7c6af0d6b7ff574c4e43f217b53b0355848f747b1'
-  version "0.0.1"
+  sha256 'fd77a34eaeba76690feea797f5a86c882367a08e31bdf2612ffa8cc43b7ce9e4'
+  version "0.0.2"
 
   def install
     bin.install "sushiro"
