@@ -2,7 +2,7 @@ class Sushiro < Formula
   desc "Randomly display the menu of 'Sushiro'"
   homepage "https://github.com/redpeacock78"
   url "https://raw.githubusercontent.com/redpeacock78/sushiro/master/sushiro"
-  sha256 '8692623437a00e76dc184de74d275a6b2e1a4d2c69740c312b2340c15baa5180'
+  sha256 '2f4224c7dd47210b8f26d5383cdf6f0f270e9d7ad224e71c753d1278189fba40'
   #version "0.0.2"
 
   def install
