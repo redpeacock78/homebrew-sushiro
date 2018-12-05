@@ -6,7 +6,7 @@ class Sushiro < Formula
   url "https://github.com/redpeacock78/sushiro/releases/download/#{FORMULA_VERSIONS}/sushiro"
   sha256 "ad73e661e57b37be36b1bc99a18eb2578f79d57ee65f6b7da807772b42c2e99c"
   head "https://github.com/redpeacock78/homebrew-sushiro.git", :branch => "master"
-  
+
   def install
     bin.install "sushiro"
   end
@@ -15,4 +15,3 @@ class Sushiro < Formula
     system "false"
   end
 end
-
