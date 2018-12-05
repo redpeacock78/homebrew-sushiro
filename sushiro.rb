@@ -1,4 +1,4 @@
-FORMULA_VERSIONS="0.0.4"
+FORMULA_VERSIONS="0.0.4".freeze
 
 class Sushiro < Formula
   desc "Randomly display the menu of 'Sushiro'"
