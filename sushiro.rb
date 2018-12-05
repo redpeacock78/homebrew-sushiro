@@ -4,7 +4,7 @@ class Sushiro < Formula
   desc "Randomly display the menu of 'Sushiro'"
   homepage "https://github.com/redpeacock78"
   url "https://github.com/redpeacock78/sushiro/releases/download/#{FORMULA_VERSIONS}/sushiro"
-  sha256 "ad73e661e57b37be36b1bc99a18eb2578f79d57ee65f6b7da807772b42c2e99c"
+  sha256 "bd825938f415bd972a803b8b717147e75e75caa5c46e52934f49d42c652f1ef4"
   head "https://github.com/redpeacock78/sushiro.git", :tag => "#{FORMULA_VERSIONS}"
 
   def install
