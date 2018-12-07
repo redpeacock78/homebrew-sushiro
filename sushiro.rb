@@ -1,10 +1,10 @@
-FORMULA_VERSIONS="0.0.4".freeze
+FORMULA_VERSIONS="0.0.5".freeze
 
 class Sushiro < Formula
   desc "🍣 Randomly display the menu of 'Sushiro' 🍣"
   homepage "https://github.com/redpeacock78"
   url "https://github.com/redpeacock78/sushiro/releases/download/#{FORMULA_VERSIONS}/sushiro"
-  sha256 "f15a08dc9cf552172984d8aae168eff9041679e8fa5644e8250e3144e5890d7c"
+  sha256 "6a6335c184b880d3d32201426ab34520f0385d99a1350fa119be5f911892b49d"
   head "https://github.com/redpeacock78/sushiro.git", :branch => "master"
 
   def install
