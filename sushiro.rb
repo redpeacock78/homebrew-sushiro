@@ -1,5 +1,5 @@
 FORMULA_VERSIONS="0.0.5".freeze
-REPOSITORY_URL="https://github.com/redpeacock78/sushiro".freeze
+REPOSITORY_URL="https://github.com/redpeacock78/sushiro.git".freeze
 
 class Sushiro < Formula
   desc "🍣 Randomly display the menu of 'Sushiro' 🍣"
