@@ -1,5 +1,7 @@
 FORMULA_VERSIONS="0.0.5".freeze
 
+require "formula"
+
 class Sushiro < Formula
   desc "🍣 Randomly display the menu of 'Sushiro' 🍣"
   homepage "https://github.com/redpeacock78"
