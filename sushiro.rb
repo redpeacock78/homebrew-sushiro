@@ -4,7 +4,7 @@ REPOSITORY_URL="https://github.com/redpeacock78/sushiro.git".freeze
 class Sushiro < Formula
   desc "🍣 Randomly display the menu of 'Sushiro' 🍣"
   homepage "https://github.com/redpeacock78"
-  url REPOSITORY_URL, :tag => FORMULA_VERSIONS, :revision => "44b64d998dd1c24250c9f64655451d078b0e81bd"
+  url REPOSITORY_URL, :tag => FORMULA_VERSIONS
   sha256 "fd49f9cd33fbc91bdbf8c0472978b410adea93b888d2a55a895bae5c9682ea3e"
   head REPOSITORY_URL, :branch => "master"
 
