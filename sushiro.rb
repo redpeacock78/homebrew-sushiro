@@ -6,7 +6,6 @@ class Sushiro < Formula
   url "https://github.com/redpeacock78/sushiro/releases/download/#{FORMULA_VERSIONS}/sushiro"
   sha256 "847696fef76f6d63b70749590a1af55695cb30bef42cd984146d60c7bf6d4a42"
   head "https://github.com/redpeacock78/sushiro.git", :branch => "master"
-
   def install
     bin.install "sushiro"
   end
