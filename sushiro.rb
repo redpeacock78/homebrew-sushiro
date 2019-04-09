@@ -1,3 +1,4 @@
+require "formula"
 class Sushiro < Formula
   desc "🍣 Randomly display the menu of 'Sushiro' 🍣"
   homepage "https://github.com/redpeacock78"
